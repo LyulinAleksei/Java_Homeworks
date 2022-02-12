@@ -1,3 +1,10 @@
+/**
+* Java. Homework 2
+*
+* @auhtor Liulin Aleksei
+*
+* @version 12.02.2022
+*/
 class Lesson2 {
     public static void main(String[] args) {
         System.out.println(within10and20(5,10));
