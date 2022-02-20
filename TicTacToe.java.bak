@@ -33,7 +33,7 @@ class TicTacToe {
             System.out.println("YOU WON!");
             break;
             }
-            if (isTableFull()) {
+             if (isTableFull()) {
             System.out.println("Sorry, DRAW");
             break;
             }
@@ -43,7 +43,7 @@ class TicTacToe {
             System.out.println("AI WON!");
             break;
             }
-            if (isTableFull()) {
+             if (isTableFull()) {
             System.out.println("Sorry, DRAW");
             break;
             }
